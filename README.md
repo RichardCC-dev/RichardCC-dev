@@ -1,28 +1,28 @@
-### Hola, soy Jose Richard Castillo Carranza 👋
+### Hola, soy Jose Richard Castillo 👋
 
-[cite_start]Soy estudiante de **Ingeniería de Software** en la UNMSM, especializado en **Ciencia de Datos** y **Desarrollo Full Stack**[cite: 4]. [cite_start]Me apasiona la construcción de modelos predictivos y sistemas web escalables, así como la integración de IA Generativa para optimizar flujos de trabajo[cite: 5, 6].
+Soy estudiante de **Ingeniería de Software** en la UNMSM, especializado en la intersección entre **Ciencia de Datos** y **Desarrollo Full Stack**. Me apasiona crear sistemas escalables que integren Inteligencia Artificial para resolver problemas complejos.
 
 - 🔭 **Actualmente estoy trabajando en ...**
-  [cite_start]Mi tesis de pregrado: un **Sistema Inteligente de Predicción** para identificar riesgos académicos[cite: 12, 19]. [cite_start]Es un proyecto Full Stack $(React + Django + PostgreSQL)$ donde implemento un pipeline de Machine Learning completo (Regresión Logística) usando Scikit-learn, Celery y Redis[cite: 20, 21, 22].
+  Un **Sistema Inteligente de Predicción** (mi tesis). Es una aplicación Full Stack (React + Django) que utiliza **Machine Learning** (Regresión Logística) para identificar estudiantes en riesgo académico, implementando un pipeline completo con Scikit-learn, Celery y Redis.
 
 - 🌱 **Actualmente estoy aprendiendo ...**
-  [cite_start]Sobre la integración de **IA Generativa (LLMs)** para data science y el uso de herramientas de automatización como **n8n** para mejorar la eficiencia en el desarrollo y la experiencia de usuario (UX)[cite: 6, 32].
+  Sobre la integración avanzada de **IA Generativa (LLMs)** en flujos de trabajo y herramientas de automatización como **n8n** para optimizar procesos de desarrollo y UX.
 
 - 👯 **Busco colaborar en ...**
-  [cite_start]Proyectos que apliquen **ciencia de datos**, automatizaciones y metodologías de desarrollo ágil[cite: 7].
+  Proyectos que requieran **Análisis de Datos**, construcción de modelos predictivos o desarrollo de sistemas web con arquitecturas ágiles.
 
 - 🤔 **Busco ayuda con ...**
-  [cite_start]Arquitecturas avanzadas en la nube (AWS/GCP) para el despliegue de modelos de ML en producción, profundizando en prácticas de MLOps[cite: 30].
+  Estrategias avanzadas de **MLOps** para desplegar y monitorear mis modelos en producción de manera más eficiente en la nube (AWS/GCP).
 
 - 💬 **Pregúntame sobre ...**
-  [cite_start]**Python** (Pandas, NumPy, Scikit-learn), **JavaScript** (React, Node.js), y cómo integrar APIs de IA en sistemas web[cite: 28, 29].
+  **Python** (Pandas, NumPy), **JavaScript** (React, Node.js), y cómo integrar APIs de IA (como Google Gemini) en aplicaciones web modernas.
 
 - 📫 **Cómo contactarme:**
-  [cite_start]Envíame un correo a **jricastica90@gmail.com** o conecta conmigo a través de LinkedIn[cite: 2].
+  Escríbeme a **jricastica90@gmail.com** o contáctame a través de [LinkedIn](https://www.linkedin.com/in/jose-richard-castillo-carranza-403169282/).
 
 - ⚡ **Dato curioso:**
-  [cite_start]Desarrollé **MiVet**, un sistema de gestión veterinaria que integra Inteligencia Artificial (Google Gemini) para automatizar la documentación clínica y funcionar como chatbot 24/7[cite: 14, 16].
+  Me encanta combinar el mundo de los datos con el desarrollo web; por ejemplo, creé **MiVet**, un sistema veterinario que no solo gestiona citas, ¡sino que usa IA para automatizar la documentación clínica!
 
 ---
-### 🛠 Lenguajes y Herramientas
-`Python` `JavaScript` `React` `Node.js` `Django` `SQL (MySQL/PostgreSQL)` `MongoDB` `Docker` `AWS` `Google Cloud Platform` `Power BI` `Git`
+🛠 **Tech Stack:**
+Python | JavaScript | React | Node.js | Django | SQL & NoSQL | Docker | AWS | Power BI
